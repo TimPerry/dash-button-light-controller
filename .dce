@@ -1,0 +1,2 @@
+service_name=app
+command_prefix=npm run
